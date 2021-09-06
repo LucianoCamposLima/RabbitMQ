@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+AMYG06TDO05FaFXoYbfsGWElnM5XKbFbGBe1+ljLBSfuMMOwAblxdh7GoKbIu2aXu/L42Rc734qfM3jSus+LA==",
+  "success": true,
+  "projectFilePath": "C:\\ProjetosPessoais\\RabbitMQ\\Producer\\Producer\\Producer\\Producer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luciano\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\Luciano\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Luciano\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

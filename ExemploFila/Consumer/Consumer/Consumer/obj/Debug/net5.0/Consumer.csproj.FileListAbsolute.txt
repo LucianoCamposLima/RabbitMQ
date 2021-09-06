@@ -1,0 +1,17 @@
+C:\ProjetosPessoais\RabbitMQ\Producer\Consumer\Consumer\Consumer\bin\Debug\net5.0\Consumer.exe
+C:\ProjetosPessoais\RabbitMQ\Producer\Consumer\Consumer\Consumer\bin\Debug\net5.0\Consumer.deps.json
+C:\ProjetosPessoais\RabbitMQ\Producer\Consumer\Consumer\Consumer\bin\Debug\net5.0\Consumer.runtimeconfig.json
+C:\ProjetosPessoais\RabbitMQ\Producer\Consumer\Consumer\Consumer\bin\Debug\net5.0\Consumer.runtimeconfig.dev.json
+C:\ProjetosPessoais\RabbitMQ\Producer\Consumer\Consumer\Consumer\bin\Debug\net5.0\Consumer.dll
+C:\ProjetosPessoais\RabbitMQ\Producer\Consumer\Consumer\Consumer\bin\Debug\net5.0\ref\Consumer.dll
+C:\ProjetosPessoais\RabbitMQ\Producer\Consumer\Consumer\Consumer\bin\Debug\net5.0\Consumer.pdb
+C:\ProjetosPessoais\RabbitMQ\Producer\Consumer\Consumer\Consumer\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\ProjetosPessoais\RabbitMQ\Producer\Consumer\Consumer\Consumer\obj\Debug\net5.0\Consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosPessoais\RabbitMQ\Producer\Consumer\Consumer\Consumer\obj\Debug\net5.0\Consumer.AssemblyInfoInputs.cache
+C:\ProjetosPessoais\RabbitMQ\Producer\Consumer\Consumer\Consumer\obj\Debug\net5.0\Consumer.AssemblyInfo.cs
+C:\ProjetosPessoais\RabbitMQ\Producer\Consumer\Consumer\Consumer\obj\Debug\net5.0\Consumer.csproj.CoreCompileInputs.cache
+C:\ProjetosPessoais\RabbitMQ\Producer\Consumer\Consumer\Consumer\obj\Debug\net5.0\Consumer.csproj.CopyComplete
+C:\ProjetosPessoais\RabbitMQ\Producer\Consumer\Consumer\Consumer\obj\Debug\net5.0\Consumer.dll
+C:\ProjetosPessoais\RabbitMQ\Producer\Consumer\Consumer\Consumer\obj\Debug\net5.0\ref\Consumer.dll
+C:\ProjetosPessoais\RabbitMQ\Producer\Consumer\Consumer\Consumer\obj\Debug\net5.0\Consumer.pdb
+C:\ProjetosPessoais\RabbitMQ\Producer\Consumer\Consumer\Consumer\obj\Debug\net5.0\Consumer.genruntimeconfig.cache
